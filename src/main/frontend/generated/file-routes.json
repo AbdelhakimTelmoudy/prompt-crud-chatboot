@@ -1,0 +1,34 @@
+[
+  {
+    "route": "",
+    "params": {},
+    "title": "Index"
+  },
+  {
+    "route": "chatboot",
+    "params": {},
+    "children": [
+      {
+        "route": "chatbootView",
+        "params": {},
+        "title": "Chatboot"
+      },
+      {
+        "route": "ChatForm",
+        "params": {},
+        "title": "Chat Form"
+      }
+    ]
+  },
+  {
+    "route": "employee",
+    "params": {},
+    "children": [
+      {
+        "route": "employeeView",
+        "params": {},
+        "title": "Employee"
+      }
+    ]
+  }
+]
